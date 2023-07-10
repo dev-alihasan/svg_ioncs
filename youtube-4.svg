@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<circle style="fill:#E8E8E8;" cx="256" cy="256" r="256"/>
+<path d="M449.84,400.864v-262.2c0-6.272-5.128-11.4-11.4-11.4H73.72c-6.272,0-11.4,5.128-11.4,11.4v262.2
+	C62.32,400.864,450.792,400.864,449.84,400.864z"/>
+<rect x="77.52" y="142.464" style="fill:#2D2D2D;" width="357.128" height="258.4"/>
+<rect x="28" y="400.88" style="fill:#E0E0E0;" width="456" height="7.6"/>
+<polygon style="fill:#C9C9C9;" points="461.2,423.664 50.8,423.664 28,408.464 484,408.464 "/>
+<g style="opacity:0.75;">
+	<path style="fill:#FFFFFF;" d="M294.208,400.864h-76.664c0.728,4.264,4.296,7.6,8.76,7.6h59.144
+		C289.92,408.464,293.488,405.136,294.208,400.864z"/>
+</g>
+<path style="fill:#DB2B42;" d="M361.616,340.072L170.72,364.2c-6.176,0.784-11.864-3.632-12.648-9.808l-17.504-138.496
+	c-0.784-6.176,3.632-11.864,9.808-12.648l190.896-24.128c6.176-0.784,11.864,3.632,12.648,9.808l17.504,138.496
+	C372.208,333.6,367.792,339.296,361.616,340.072z"/>
+<polygon style="fill:#FFFFFF;" points="228.624,235.6 300.92,265.984 238.456,313.4 "/>
+</svg>
